@@ -1,12 +1,18 @@
-## Hi there 👋
+## 👋 Welcome to Josna Technologies Ltd
 
-<!--
+**Josna Technologies Ltd** is a modern software development and technology consulting company based in Dhaka, Bangladesh. We partner with startups, entrepreneurs, and growing businesses to turn ambitious ideas into scalable, high-performance digital products.
 
-**Here are some ideas to get you started:**
+### 🚀 What We Build
+- **Custom Software Development:** Tailored enterprise applications and automated business workflows.
+- **Web Applications:** Fast, secure, and responsive web platforms built with modern architectures.
+- **Mobile App Engineering:** Cross-platform and native iOS & Android applications.
+- **UI/UX Design:** Clean, intuitive, and user-centric product interfaces.
+- **Cloud & IT Consulting:** Scalable cloud deployment, DevOps, and technical strategy.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 💡 Our Engineering Philosophy
+We believe great software is built on **clean code**, **scalable architecture**, **transparent communication**, and **on-time delivery**.
+
+### 🌐 Connect With Us
+- **Website:** [josna.pages.dev](https://josna.pages.dev)
+- **LinkedIn:** [Josna Technologies Ltd](https://www.linkedin.com/company/josna-technologies-ltd/)
+- **Location:** Dhaka, Bangladesh
